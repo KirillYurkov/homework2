@@ -1,0 +1,25 @@
+<li ><a href ="#istoria">История</a></li>
+      <ol>
+        <li><a href ="#etimologia">Этимология, прозвища</a></li>
+        <li><a href="#osnovanie">Основание</a></li>
+        <li><a href="#xx vek">XX век</a></li>
+      </ol>
+      <li><a href="#geo">Физико-географическая характеристика</a></li>
+      <ol>
+        <li><a href="#klimat">Географическое положение и климат</a></li>
+        <li><a href="#relef">Рельеф, внутренние воды</a></li>
+        <li><a href="#flora">Флора и фауна</a></li>
+      </ol>
+      <li><a href="#economika">Экономика</a></li>
+      <ol>
+        <li><a href="#sostyanie">Общее состояние</a></li>
+        <li><a href="#energetica">Энергетика и нефтехимия</a></li>
+        <li><a href="#avia">Авиакосмическая промышленность</a></li>
+      </ol>
+      <li><a href="#naselenie">Население</a></li>
+      <ol>
+        <li><a href="#dinamika">Динамика и структура населения</a></li>
+        <li><a href="#etnos">Этнический и конфессиональный состав, языки</a></li>
+      </ol>
+      <li><a href="#smi">Средства массовой информации</a></li>
+      <li><a href="#goroda">Города-побратимы</a></li>

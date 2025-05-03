@@ -1,0 +1,29 @@
+h1 {
+  font-size: 32px;
+}
+h1,
+h2,
+h3,
+h4 {
+  margin-top: 1.5em;
+}
+.content {
+  width: 50%;
+  margin: auto;
+}
+
+figure {
+  display: inline-block;
+}
+
+.image {
+  float: right;
+  font-style: italic;
+}
+
+table,
+td,
+th {
+  border: 1px;
+  border-style: solid;
+}
